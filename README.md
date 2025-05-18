@@ -69,7 +69,9 @@ Continuous Learning and Future Goals
 As technology evolves, Aman remains committed to continuous learning and improvement. He actively explores advancements in artificial intelligence (AI) integrations, machine learning for predictive analytics, and blockchain-based applications.
 
 His future aspirations include mastering serverless computing, expanding knowledge in cloud services like AWS and Azure, and delving into progressive web applications (PWAs) for enhanced offline functionality.
-
+<div class =icon>
+  <img src="https://github.com/Amansinha110/Responsive-Resturant-UI-Website/blob/master/Screenshot%202025-05-15%20054602.png">
+</div>
 Conclusion
 Aman is more than just a full-stack developer—he is an innovator, a problem solver, and a passionate creator dedicated to transforming ideas into high-performance web applications. Whether working on startups, corporate enterprises, or personal projects, his expertise in React.js, Node.js, and modern web technologies ensures excellence in digital solutions.
 
